@@ -1,9 +1,12 @@
 # 3D Zork Unity
 
-3D Zork Unity is a Unity port of a game called 3D Zork, originally made by https://github.com/mdepp and myself when we were in junior high. Most of the textures and sounds a came from other games (I use them here for educational purposes only) however the level editor was custom built (hence why the levels look so crappy).
+### What is 3D Zork?
+3D Zork unity is the product of a challenge I set for myself: build a Unity game in five days.
 
-The Unity version was made by myself in about a week.
+It is a Unity port of a game originally made by https://github.com/mdepp and myself five years ago, itself based on the text adventure Zork I.
 
+Most of the textures and sounds a came from other games (I use them here for educational purposes only) however the level editor was custom built (hence why the levels look so crappy).
+### Screenshots
 ![screenshot](Screenshots/Capture.PNG)
 ![screenshot](Screenshots/Capture2.PNG)
 ![screenshot](Screenshots/Capture3.PNG)
